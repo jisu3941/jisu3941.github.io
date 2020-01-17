@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: a pen
 subtitle: "blog by a pen"
-email: -
+#email: 
 name: jisu
 description: >
   A simple yet classy theme for your Jekyll website or blog.
